@@ -1,4 +1,4 @@
-# Resources_for_learning_R
+# Resources for learning R
 
 * TeaCup Giraffe
 https://tinystats.github.io/teacups-giraffes-and-statistics/01_introToR.html
